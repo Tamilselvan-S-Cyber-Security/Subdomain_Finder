@@ -61,7 +61,7 @@
 ### Quick Setup
 ```bash
 # Clone the repository
-git clone https://github.com/tamilselvan/wolf-subdomain-finder.git
+https://github.com/Tamilselvan-S-Cyber-Security/Subdomain_Finder.git
 
 # Navigate to the directory
 cd wolf-subdomain-finder
@@ -780,13 +780,12 @@ https://github.com/tamilselvan/wolf-subdomain-finder
 
 **The Ultimate Cybersecurity Testing Suite**
 
-[![GitHub Stars](https://img.shields.io/github/stars/tamilselvan/wolf-subdomain-finder?style=social)](https://github.com/tamilselvan/wolf-subdomain-finder/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/tamilselvan/wolf-subdomain-finder?style=social)](https://github.com/tamilselvan/wolf-subdomain-finder/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/tamilselvan/wolf-subdomain-finder)](https://github.com/tamilselvan/wolf-subdomain-finder/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/Tamilselvan-S-Cyber-Security/Subdomain_Finder?style=social)](https://github.com/Tamilselvan-S-Cyber-Security/Subdomain_Finder/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/Tamilselvan-S-Cyber-Security/Subdomain_Finder?style=social)](https://github.com/Tamilselvan-S-Cyber-Security/Subdomain_Finder/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/Tamilselvan-S-Cyber-Security/Subdomain_Finder)](https://github.com/Tamilselvan-S-Cyber-Security/Subdomain_Finder/issues)
 
-**Developed with ❤️ by [Tamilselvan](https://github.com/tamilselvan)**
+**Developed with ❤️ by [Tamilselvan](https://github.com/Tamilselvan-S-Cyber-Security)**
 
-**⚠️ For Educational and Authorized Testing Only**
 
 </div>
 
